@@ -1,3 +1,3 @@
 # hellp-word
 Репозиторий
-ssssss
+hello
